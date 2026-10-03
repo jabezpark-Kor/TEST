@@ -45,3 +45,5 @@ data/
 - 파비콘: `app/favicon.ico` 파일을 추가하거나 교체
 
 문의 폼은 현재 브라우저에서 검증 후 완료 상태를 표시합니다. 실제 이메일 또는 CRM 연동 시 `components/ContactForm.tsx`의 `submitInquiry` 함수만 API 호출로 교체하면 됩니다.
+
+Claude Code 연습 완료
